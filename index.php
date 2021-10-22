@@ -26,7 +26,7 @@
     <div class="w3-third">
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container"><br>
-          <img src="https://png.pngtree.com/png-vector/20200329/ourlarge/pngtree-coronavirus-icon-with-red-prohibit-sign-design-png-image_2166704.jpg" style="width:100%" height="100%" alt="Avatar">
+          <img src="https://covid-19-apis.postman.com/static/covid19-image-2-0e295f09eccf0fa3f4778159cd065f5d.png" style="width:100%" height="100%" alt="Avatar">
           <br></div>
         </div>
         <br>
